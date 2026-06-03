@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Context Menu</string>
+    <string name="like">Like</string>
+    <string name="unlike">Unlike</string>
+</resources>
